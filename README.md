@@ -92,6 +92,9 @@ A positive linear relationship exists between quantity purchased and sales (R² 
 
 <img width="900" height="500" alt="bar_revenue_by_location" src="https://github.com/user-attachments/assets/e4d6ba3e-02c6-4652-b7e2-8e3bae74c6ad" />
 
+<img width="842" height="503" alt="image" src="https://github.com/user-attachments/assets/cca90860-f829-4c14-9806-b36e63cafb65" />
+
+
 
 All three branches performed within a tight revenue band in Q1 2019:
 
