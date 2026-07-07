@@ -66,15 +66,8 @@ With clean data in hand, the focus shifted to establishing the financial and beh
 
 <img width="900" height="500" alt="observation_1_skewness" src="https://github.com/user-attachments/assets/d1d41e75-6c53-4aeb-8c67-670f31c1d69c" />
 
-<div style="border: 1px solid #d0d7de; border-radius: 6px; overflow: hidden; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
-  <div style="background-color: #D6A2E8; color: #000000; padding: 8px 16px; font-weight: bold; font-size: 16px;">
-    Observation 1
-  </div>
-  <div style="padding: 16px; background-color: #ffffff; color: #24292f; line-height: 1.6; font-size: 14px;">
-    The mean <strong>($322.26)</strong> is noticeably higher than the median <strong>($253.39)</strong>, a difference of $68.87. This indicates a positive (right) skew in the distribution, meaning the data is not symmetrical and is being pulled rightward by a small number of exceptionally large purchases. The standard deviation of <strong>$245.65</strong> further supports the transactions deviate widely from the mean, indicating high variability. <br><br>
-    As a result, the <strong>Median is a more reliable measure of a typical transaction than the Mean</strong>, since it is less affected by extreme values.
-  </div>
-</div>
+<img width="1536" height="1024" alt="Copilot_20260707_115816" src="https://github.com/user-attachments/assets/a9e3e859-cb9f-4c12-9a6a-3e1ca39dd629" />
+
 
 The mean ($322.26) sits noticeably above the median ($253.39) — a gap of $68.87. This is the classic fingerprint of a **right-skewed distribution**: a small number of exceptionally large purchases pulling the mean upward while most transactions cluster at lower values. With a standard deviation of $245.65, transaction values are highly dispersed.
 
