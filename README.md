@@ -64,7 +64,6 @@ With clean data in hand, the focus shifted to establishing the financial and beh
 
 ### 🔍 Observation 1 — Skewness in Sales Revenue
 
-<img width="900" height="500" alt="observation_1_skewness" src="https://github.com/user-attachments/assets/d1d41e75-6c53-4aeb-8c67-670f31c1d69c" />
 
 <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/109b180c-8710-4175-8162-b4ef85102970" />
 
