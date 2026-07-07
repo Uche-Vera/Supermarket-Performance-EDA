@@ -146,7 +146,11 @@ Customer ratings (scale: 4–10) showed a relatively **uniform distribution** ac
 
 ### Normal Distribution — Sales Revenue
 
+
 <img width="900" height="500" alt="probability_distributions" src="https://github.com/user-attachments/assets/22fd4fd2-00b6-44f0-a3c9-34b1a7128b84" />
+
+<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/bcee86f4-fb21-44ab-8b1a-373480344f02" />
+
 
 
 Using Mean = $322.26 and SD = $245.65:
