@@ -1,10 +1,10 @@
-# 🛒 Supermarket Pulse: A Data-Driven Operations Analysis of Q1 2019
+# 🛒 Supermarket Performace Exploratory Data Analysis (EDA) : Q1 2019 Operations: Data & Insights
 
-> *Cleaning the noise. Finding the signal. Telling the story behind every transaction.*
+> *Extracting clarity from data noise to uncover the signal. Revealing the story behind the data.*
 
 ---
 
-## 📌 Project Overview
+## 📌 Strategic Overview
 
 This capstone project simulates the role of a **Lead Data Analyst** for a global supermarket chain operating across three Egyptian branches — **Alexandria, Cairo, and Giza**. Given a raw, messy extract of **~1,000 transactions** from Q1 2019, the objective was to transform noisy data into actionable business intelligence — within a single analytical workflow.
 
